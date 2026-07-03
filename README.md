@@ -22,14 +22,33 @@ I work around applied AI systems, with a strong interest in how agents are desig
 
 ## AI Stack
 
+<p align="center"><strong>Agent Platforms & Orchestration</strong></p>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Dify-111827?style=for-the-badge&logoColor=white" alt="Dify" />
+  <img src="https://img.shields.io/badge/Dify-111827?style=for-the-badge&logo=dify&logoColor=white" alt="Dify" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/OpenAI-111827?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" alt="LangGraph" />
   <img src="https://img.shields.io/badge/LlamaIndex-6B46C1?style=for-the-badge&logoColor=white" alt="LlamaIndex" />
 </p>
+
+<p align="center"><strong>RAG & Retrieval</strong></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/RAG-0F172A?style=for-the-badge&logoColor=white" alt="RAG" />
+  <img src="https://img.shields.io/badge/Vector%20Search-312E81?style=for-the-badge&logoColor=white" alt="Vector Search" />
+  <img src="https://img.shields.io/badge/Embeddings-4C1D95?style=for-the-badge&logoColor=white" alt="Embeddings" />
+  <img src="https://img.shields.io/badge/Knowledge%20Base-1E293B?style=for-the-badge&logoColor=white" alt="Knowledge Base" />
+</p>
+
+<p align="center"><strong>Model & AI Frameworks</strong></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/Transformers-FFB000?style=for-the-badge&logo=huggingface&logoColor=black" alt="Transformers" />
+</p>
+
+<p align="center"><strong>Languages & Runtime</strong></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
