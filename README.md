@@ -43,8 +43,8 @@ I work around applied AI systems, with a strong interest in how agents are desig
 <p align="center"><strong>Model & Inference</strong></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Qwen-111827?style=for-the-badge&logo=alibabacloud&logoColor=white" alt="Qwen" />
-  <img src="https://img.shields.io/badge/DeepSeek-0F172A?style=for-the-badge&logoColor=white" alt="DeepSeek" />
+  <img src="https://img.shields.io/badge/Qwen-6950EF?style=for-the-badge&logo=qwen&logoColor=white" alt="Qwen" />
+  <img src="https://img.shields.io/badge/DeepSeek-5786FE?style=for-the-badge&logo=deepseek&logoColor=white" alt="DeepSeek" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
 </p>
