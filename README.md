@@ -40,19 +40,25 @@ I work around applied AI systems, with a strong interest in how agents are desig
   <img src="https://img.shields.io/badge/Knowledge%20Base-1E293B?style=for-the-badge&logoColor=white" alt="Knowledge Base" />
 </p>
 
-<p align="center"><strong>Model & AI Frameworks</strong></p>
+<p align="center"><strong>Model & Inference</strong></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/Transformers-FFB000?style=for-the-badge&logo=huggingface&logoColor=black" alt="Transformers" />
+  <img src="https://img.shields.io/badge/Model%20Serving-0F766E?style=for-the-badge&logoColor=white" alt="Model Serving" />
+  <img src="https://img.shields.io/badge/Inference-7C2D12?style=for-the-badge&logoColor=white" alt="Inference" />
 </p>
 
-<p align="center"><strong>Languages & Runtime</strong></p>
+<p align="center"><strong>Core Languages</strong></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</p>
+
+<p align="center"><strong>Backend & Runtime</strong></p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
@@ -61,11 +67,11 @@ I work around applied AI systems, with a strong interest in how agents are desig
 ## AI Infra Topics
 
 ```text
-Agent Systems     Tool use / memory / planning / evaluation
-RAG               Retrieval pipelines / vector search / knowledge systems
-Inference         Model serving / latency / throughput / deployment trade-offs
-Backend           Python services / C++ foundations / automation tooling
-Observability     Logs / metrics / traces / experiment feedback loops
+Agent Systems      Tool Use / Memory / Planning / Evaluation
+RAG & Retrieval    Retrieval Pipelines / Vector Search / Knowledge Systems
+Inference          Model Serving / Latency / Throughput / Deployment Trade-offs
+Backend & Runtime  Python Services / C++ Foundations / Automation Tooling
+Observability      Logs / Metrics / Traces / Experiment Feedback Loops
 ```
 
 ## What I'm Exploring
