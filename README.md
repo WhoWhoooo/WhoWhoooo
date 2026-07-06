@@ -83,11 +83,6 @@ Observability      Logs / Metrics / Traces / Experiment Feedback Loops
 - C++ fundamentals for performance-sensitive systems
 - Python tooling for AI applications, automation, and experiments
 
-## Notes
-
-This profile is intentionally focused on technical direction rather than personal details.
-
-The goal is to document a path through AI agents, infrastructure, and useful software systems.
 
 ---
 
